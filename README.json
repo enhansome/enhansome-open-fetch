@@ -1,34 +1,9 @@
 {
-  "items": [
-    {
-      "description": "NNBnh/bfetch — system Linux ✓\ninfo-mono/diyfetch — template Linux ✓\n6gk/fet.sh — system Linux ✓\nThatOneCalculator/NerdFetch — system Linux ✓ Mac ✓\ndylanaraps/pfetch — system Linux ✓ BSD ✓ Mac ✓ WSL ✓\ncybardev/cutefetch — system Linux ✓ Mac ✓\ndylanaraps/neofetch — system Linux ✓ BSD ✓ Mac ✓ Win ✓\nMangeshrex/rxfetch — system Linux ✓\nKittyKatt/screenFetch — system Linux ✓ BSD ✓ Mac ✓\nwick3dr0se/sysfetch — system Linux ✓\nanhsirk0/fetch-master-6000 — system Linux ✓ Mac ✓\nkiedtl/winfetch — system Win ✓\nHorlogeSkynet/archey4 — system Linux ✓ BSD ✓ Mac ✓ WSL ✓\nhykilpikonna/hyfetch — system Linux ✓ BSD ✓ Mac ✓ Win ✓",
-      "items": [],
-      "title": "Interpreted"
-    },
-    {
-      "description": "13-CF/afetch — system Linux ✓ BSD ✓ Mac ✓\nalba4k/albafetch — system Linux ✓ Mac ✓\nDr-Noob/cpufetch — cpu Linux ✓ BSD ✓ Mac ✓ Win ✓\nLinusDierheimer/fastfetch — system Linux ✓ BSD ✓ Mac ✓\nmehedirm6244/sysfex — system Linux ✓\nkeremgokcek/tfetch — system Linux ✓\nRosettea/bunnyfetch — system Linux ✓ BSD ✓ Mac ✓\nunxsh/nitch — system Linux ✓\nK4rakara/freshfetch — system Linux ✓\nGobidev/pfetch-rs — system Linux ✓ BSD ✓ Mac ✓\nMacchina-CLI/macchina — system Linux ✓ BSD ✓ Mac ✓ Win ✓\nonefetch — git Linux ✓ BSD ✓ Mac ✓ Win ✓\nrsfetch — system Linux ✓ BSD ✓",
-      "items": [],
-      "title": "Compiled"
-    },
-    {
-      "description": "Fork this repository & edit your version",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "Put new fetches between the HTML tags, following the current code formatting. To form code blocks, the lines are terminated with 2 spaces, creating a newline without a gap\nUpdate both correlated counters or all 3 if a new language is added",
-      "items": [],
-      "title": "Adding a new fetch"
-    },
-    {
-      "description": "Feel free to make any improvements or changes that may benefit the list\nSubmit a PR, linking any related issues",
-      "items": [],
-      "title": "Making changes"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-19T02:05:17.248Z",
+    "last_updated": "2026-08-19T12:42:20.289Z",
     "original_repository": "wick3dr0se/open-fetch",
+    "original_repository_id": 541043415,
     "original_repository_sha": "f94407d9c191a76d3d65db996f83a4b40a88f549",
     "enhanced_repository": "enhansome/enhansome-open-fetch",
     "enhanced_repository_description": null,

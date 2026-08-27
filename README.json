@@ -1,9 +1,16 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-27T10:27:40.536Z",
-    "original_repository": "wick3dr0se/open-fetch",
-    "original_repository_id": 541043415,
+    "last_updated": "2026-08-27T11:55:29.869Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 541043415,
+      "language": null,
+      "last_commit": "2023-08-04T00:17:44Z",
+      "owner": "wick3dr0se",
+      "repo": "open-fetch",
+      "stars": 132
+    },
     "original_repository_sha": "f94407d9c191a76d3d65db996f83a4b40a88f549",
     "enhanced_repository": "enhansome/enhansome-open-fetch",
     "enhanced_repository_description": null,

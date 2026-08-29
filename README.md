@@ -183,7 +183,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **HorlogeSkynet/archey4** — system\
 `💻 Maintained fork of the original Archey (Linux) system tool`\
-[<img style="height:200px;" src="https://camo.githubusercontent.com/2ed9dd62bafd5b58e6e034accd4e764c753324d4d7ccf1e385a2fb1834f76d40/68747470733a2f2f626c6f672e73616d75656c2e646f6d61696e732f696d672f626c6f672f7468652d6172636865792d70726f6a6563742d776861742d692d76652d646563696465642d746f2d646f2e706e673f76342e31342e302e30">](https://github.com/HorlogeSkynet/archey4) ⭐ 339 | 🐛 2 | 🌐 Python | 📅 2026-05-20\
+[<img style="height:200px;" src="https://camo.githubusercontent.com/2ed9dd62bafd5b58e6e034accd4e764c753324d4d7ccf1e385a2fb1834f76d40/68747470733a2f2f626c6f672e73616d75656c2e646f6d61696e732f696d672f626c6f672f7468652d6172636865792d70726f6a6563742d776861742d692d76652d646563696465642d746f2d646f2e706e673f76342e31342e302e30">](https://github.com/HorlogeSkynet/archey4) ⭐ 339 | 🐛 1 | 🌐 Python | 📅 2026-05-20\
 ![](https://img.shields.io/github/stars/HorlogeSkynet/archey4?style=social)  
 ![](https://img.shields.io/github/last-commit/HorlogeSkynet/archey4?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓ WSL ✓</sub>
 
@@ -228,7 +228,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **alba4k/albafetch** — system\
 `Faster neofetch alternative, written in C`
-[<img style="height:200px;" src="https://raw.githubusercontent.com/alba4k/albafetch/master/images/albafetch_demo.png">](https://github.com/alba4k/albafetch) ⭐ 74 | 🐛 0 | 🌐 C | 📅 2026-08-22\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/alba4k/albafetch/master/images/albafetch_demo.png">](https://github.com/alba4k/albafetch) ⭐ 74 | 🐛 1 | 🌐 C | 📅 2026-08-29\
 ![](https://img.shields.io/github/stars/alba4k/albafetch?style=social)  
 ![](https://img.shields.io/github/last-commit/alba4k/albafetch?style=flat-square)\ <sub>Linux ✓ Mac ✓</sub>
 
@@ -252,7 +252,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **LinusDierheimer/fastfetch** — system\
 `Like neofetch, but much faster because written in C`\
-[<img style="height:200px;" src="https://raw.githubusercontent.com/LinusDierheimer/fastfetch/master/screenshots/example1.png">](https://github.com/LinusDierheimer/fastfetch) ⭐ 24,424 | 🐛 76 | 🌐 C | 📅 2026-08-29\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/LinusDierheimer/fastfetch/master/screenshots/example1.png">](https://github.com/LinusDierheimer/fastfetch) ⭐ 24,425 | 🐛 77 | 🌐 C | 📅 2026-08-29\
 ![](https://img.shields.io/github/stars/LinusDierheimer/fastfetch?style=social)  
 ![](https://img.shields.io/github/last-commit/LinusDierheimer/fastfetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓</sub>
 

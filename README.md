@@ -114,7 +114,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **KittyKatt/screenFetch** — system\
 `The Bash Screenshot Information Tool`
-[<img style="height:200px;" src="https://raw.githubusercontent.com/joaorobertopb/screenfetch/master/img/screenfetch-wsl.png">](https://github.com/KittyKatt/screenFetch) ⭐ 4,076 | 🐛 169 | 🌐 Shell | 📅 2026-03-02\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/joaorobertopb/screenfetch/master/img/screenfetch-wsl.png">](https://github.com/KittyKatt/screenFetch) ⭐ 4,074 | 🐛 170 | 🌐 Shell | 📅 2026-03-02\
 ![](https://img.shields.io/github/stars/KittyKatt/screenFetch?style=social)  
 ![](https://img.shields.io/github/last-commit/KittyKatt/screenFetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓</sub>
 
@@ -145,7 +145,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **anhsirk0/fetch-master-6000** — system\
 `Simple Dilbert themed system info-fetching tool`
-[<img style="height:200px;" src="https://raw.githubusercontent.com/anhsirk0/fetch-master-6000/master/screenshots/all1.png">](https://github.com/anhsirk0/fetch-master-6000) ⭐ 312 | 🐛 0 | 🌐 Perl | 📅 2023-08-10\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/anhsirk0/fetch-master-6000/master/screenshots/all1.png">](https://github.com/anhsirk0/fetch-master-6000) ⭐ 311 | 🐛 0 | 🌐 Perl | 📅 2023-08-10\
 ![](https://img.shields.io/github/stars/anhsirk0/fetch-master-6000?style=social)  
 ![](https://img.shields.io/github/last-commit/anhsirk0/fetch-master-6000?style=flat-square)\ <sub>Linux ✓ Mac ✓</sub>
 
@@ -164,7 +164,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **kiedtl/winfetch** — system\
 `🛠 A command-line system information utility written in PowerShell`\
-[<img style="height:250px;" src="https://user-images.githubusercontent.com/46838874/109414247-f75e1600-79d7-11eb-90ea-d28d417b1654.png">](https://github.com/kiedtl/winfetch) ⭐ 1,791 | 🐛 26 | 🌐 PowerShell | 📅 2024-05-09\
+[<img style="height:250px;" src="https://user-images.githubusercontent.com/46838874/109414247-f75e1600-79d7-11eb-90ea-d28d417b1654.png">](https://github.com/kiedtl/winfetch) ⭐ 1,790 | 🐛 26 | 🌐 PowerShell | 📅 2024-05-09\
 ![](https://img.shields.io/github/stars/kiedtl/winfetch?style=social)  
 ![](https://img.shields.io/github/last-commit/kiedtl/winfetch?style=flat-square)\ <sub>Win ✓</sub>
 
@@ -183,7 +183,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **HorlogeSkynet/archey4** — system\
 `💻 Maintained fork of the original Archey (Linux) system tool`\
-[<img style="height:200px;" src="https://camo.githubusercontent.com/2ed9dd62bafd5b58e6e034accd4e764c753324d4d7ccf1e385a2fb1834f76d40/68747470733a2f2f626c6f672e73616d75656c2e646f6d61696e732f696d672f626c6f672f7468652d6172636865792d70726f6a6563742d776861742d692d76652d646563696465642d746f2d646f2e706e673f76342e31342e302e30">](https://github.com/HorlogeSkynet/archey4) ⭐ 339 | 🐛 1 | 🌐 Python | 📅 2026-05-20\
+[<img style="height:200px;" src="https://camo.githubusercontent.com/2ed9dd62bafd5b58e6e034accd4e764c753324d4d7ccf1e385a2fb1834f76d40/68747470733a2f2f626c6f672e73616d75656c2e646f6d61696e732f696d672f626c6f672f7468652d6172636865792d70726f6a6563742d776861742d692d76652d646563696465642d746f2d646f2e706e673f76342e31342e302e30">](https://github.com/HorlogeSkynet/archey4) ⭐ 339 | 🐛 2 | 🌐 Python | 📅 2026-05-20\
 ![](https://img.shields.io/github/stars/HorlogeSkynet/archey4?style=social)  
 ![](https://img.shields.io/github/last-commit/HorlogeSkynet/archey4?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓ WSL ✓</sub>
 
@@ -252,7 +252,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **LinusDierheimer/fastfetch** — system\
 `Like neofetch, but much faster because written in C`\
-[<img style="height:200px;" src="https://raw.githubusercontent.com/LinusDierheimer/fastfetch/master/screenshots/example1.png">](https://github.com/LinusDierheimer/fastfetch) ⭐ 24,432 | 🐛 77 | 🌐 C | 📅 2026-08-29\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/LinusDierheimer/fastfetch/master/screenshots/example1.png">](https://github.com/LinusDierheimer/fastfetch) ⭐ 24,449 | 🐛 79 | 🌐 C | 📅 2026-08-31\
 ![](https://img.shields.io/github/stars/LinusDierheimer/fastfetch?style=social)  
 ![](https://img.shields.io/github/last-commit/LinusDierheimer/fastfetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓</sub>
 
@@ -376,7 +376,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **onefetch** — git\
 `Git repository summary in your terminal`\
-[<img style="height:200px;" src="https://raw.githubusercontent.com/o2sh/onefetch/main/assets/screenshot-1.png">](https://github.com/o2sh/onefetch) ⭐ 12,036 | 🐛 63 | 🌐 Rust | 📅 2026-08-29\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/o2sh/onefetch/main/assets/screenshot-1.png">](https://github.com/o2sh/onefetch) ⭐ 12,037 | 🐛 62 | 🌐 Rust | 📅 2026-08-30\
 ![](https://img.shields.io/github/stars/o2sh/onefetch?style=social)  
 ![](https://img.shields.io/github/last-commit/o2sh/onefetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓ Win ✓</sub>
 
@@ -423,4 +423,4 @@ Submit a PR, linking any related issues
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._

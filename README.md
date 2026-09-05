@@ -228,7 +228,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **alba4k/albafetch** — system\
 `Faster neofetch alternative, written in C`
-[<img style="height:200px;" src="https://raw.githubusercontent.com/alba4k/albafetch/master/images/albafetch_demo.png">](https://github.com/alba4k/albafetch) ⭐ 74 | 🐛 0 | 🌐 C | 📅 2026-08-29\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/alba4k/albafetch/master/images/albafetch_demo.png">](https://github.com/alba4k/albafetch) ⭐ 74 | 🐛 1 | 🌐 C | 📅 2026-09-05\
 ![](https://img.shields.io/github/stars/alba4k/albafetch?style=social)  
 ![](https://img.shields.io/github/last-commit/alba4k/albafetch?style=flat-square)\ <sub>Linux ✓ Mac ✓</sub>
 
@@ -240,7 +240,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **Dr-Noob/cpufetch** — cpu\
 `Simple yet fancy CPU architecture fetching tool`\
-[<img style="height:200px;" src="https://raw.githubusercontent.com/Dr-Noob/cpufetch/master/pictures/epyc.png">](https://github.com/Dr-Noob/cpufetch) ⭐ 2,140 | 🐛 132 | 🌐 C | 📅 2025-11-01\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/Dr-Noob/cpufetch/master/pictures/epyc.png">](https://github.com/Dr-Noob/cpufetch) ⭐ 2,142 | 🐛 132 | 🌐 C | 📅 2025-11-01\
 ![](https://img.shields.io/github/stars/Dr-Noob/cpufetch?style=social)  
 ![](https://img.shields.io/github/last-commit/Dr-Noob/cpufetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓ Win ✓</sub>
 
@@ -252,7 +252,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **LinusDierheimer/fastfetch** — system\
 `Like neofetch, but much faster because written in C`\
-[<img style="height:200px;" src="https://raw.githubusercontent.com/LinusDierheimer/fastfetch/master/screenshots/example1.png">](https://github.com/LinusDierheimer/fastfetch) ⭐ 24,516 | 🐛 83 | 🌐 C | 📅 2026-09-03\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/LinusDierheimer/fastfetch/master/screenshots/example1.png">](https://github.com/LinusDierheimer/fastfetch) ⭐ 24,523 | 🐛 83 | 🌐 C | 📅 2026-09-04\
 ![](https://img.shields.io/github/stars/LinusDierheimer/fastfetch?style=social)  
 ![](https://img.shields.io/github/last-commit/LinusDierheimer/fastfetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓</sub>
 
@@ -340,7 +340,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **K4rakara/freshfetch** — system\
 `A fresh take on neofetch`\
-[<img style="height:200px;" src="https://raw.githubusercontent.com/K4rakara/freshfetch/master/readme/config-1.png">](https://github.com/K4rakara/freshfetch) ⭐ 509 | 🐛 19 | 🌐 Rust | 📅 2024-06-05\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/K4rakara/freshfetch/master/readme/config-1.png">](https://github.com/K4rakara/freshfetch) ⭐ 510 | 🐛 19 | 🌐 Rust | 📅 2024-06-05\
 ![](https://img.shields.io/github/stars/K4rakara/freshfetch?style=social)  
 ![](https://img.shields.io/github/last-commit/K4rakara/freshfetch?style=flat-square)\ <sub>Linux ✓</sub>
 
@@ -423,4 +423,4 @@ Submit a PR, linking any related issues
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

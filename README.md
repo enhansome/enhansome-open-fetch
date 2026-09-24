@@ -49,7 +49,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **ThatOneCalculator/NerdFetch** — system\
 `A POSIX *nix fetch script using Nerdfonts`\
-[<img style="height:200px;" src="https://blob.jortage.com/blobs/0/a51/0a511e297d66eee92e7cc729e70ca764da6a7bf53aec23d446f1cfbc7da7d9d799bbff5e2de8394f3397d0bee5c058c4c1192c6ae8f45e8ab3f82cd3cd8cb2c2"/>](https://github.com/ThatOneCalculator/NerdFetch) ⭐ 661 | 🐛 0 | 🌐 Shell | 📅 2026-07-16\
+[<img style="height:200px;" src="https://blob.jortage.com/blobs/0/a51/0a511e297d66eee92e7cc729e70ca764da6a7bf53aec23d446f1cfbc7da7d9d799bbff5e2de8394f3397d0bee5c058c4c1192c6ae8f45e8ab3f82cd3cd8cb2c2"/>](https://github.com/ThatOneCalculator/NerdFetch) ⭐ 662 | 🐛 0 | 🌐 Shell | 📅 2026-07-16\
 ![](https://img.shields.io/github/stars/ThatOneCalculator/NerdFetch?style=social)  
 ![](https://img.shields.io/github/last-commit/ThatOneCalculator/NerdFetch?style=flat-square)\ <sub>Linux ✓ Mac ✓</sub>
 
@@ -252,7 +252,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **LinusDierheimer/fastfetch** — system\
 `Like neofetch, but much faster because written in C`\
-[<img style="height:200px;" src="https://raw.githubusercontent.com/LinusDierheimer/fastfetch/master/screenshots/example1.png">](https://github.com/LinusDierheimer/fastfetch) ⭐ 24,734 | 🐛 91 | 🌐 C | 📅 2026-09-21\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/LinusDierheimer/fastfetch/master/screenshots/example1.png">](https://github.com/LinusDierheimer/fastfetch) ⭐ 24,747 | 🐛 95 | 🌐 C | 📅 2026-09-23\
 ![](https://img.shields.io/github/stars/LinusDierheimer/fastfetch?style=social)  
 ![](https://img.shields.io/github/last-commit/LinusDierheimer/fastfetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓</sub>
 
@@ -352,7 +352,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **Gobidev/pfetch-rs** — system\
 `A rewrite of the pfetch system information tool in Rust`
-[<img style="height:200px;" src="https://user-images.githubusercontent.com/50576978/219375863-579c495d-8db8-4aa9-a4a6-348ecb2c849f.png">](https://github.com/Gobidev/pfetch-rs) ⭐ 365 | 🐛 2 | 🌐 Rust | 📅 2026-09-21\
+[<img style="height:200px;" src="https://user-images.githubusercontent.com/50576978/219375863-579c495d-8db8-4aa9-a4a6-348ecb2c849f.png">](https://github.com/Gobidev/pfetch-rs) ⭐ 366 | 🐛 2 | 🌐 Rust | 📅 2026-09-21\
 ![](https://img.shields.io/github/stars/Gobidev/pfetch-rs?style=social)  
 ![](https://img.shields.io/github/last-commit/Gobidev/pfetch-rs?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓</sub>
 
@@ -364,7 +364,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **Macchina-CLI/macchina** — system\
 `A system information frontend, with an (unhealthy) emphasis on performance`\
-[<img style="height:200px;" src="https://raw.githubusercontent.com/Macchina-CLI/macchina/main/assets/preview.png">](https://github.com/Macchina-CLI/macchina) ⭐ 1,973 | 🐛 11 | 🌐 Rust | 📅 2025-03-08\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/Macchina-CLI/macchina/main/assets/preview.png">](https://github.com/Macchina-CLI/macchina) ⭐ 1,974 | 🐛 11 | 🌐 Rust | 📅 2025-03-08\
 ![](https://img.shields.io/github/stars/Macchina-CLI/macchina?style=social)  
 ![](https://img.shields.io/github/last-commit/Macchina-CLI/macchina?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓ Win ✓</sub>
 
@@ -376,7 +376,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **onefetch** — git\
 `Git repository summary in your terminal`\
-[<img style="height:200px;" src="https://raw.githubusercontent.com/o2sh/onefetch/main/assets/screenshot-1.png">](https://github.com/o2sh/onefetch) ⭐ 12,050 | 🐛 63 | 🌐 Rust | 📅 2026-09-22\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/o2sh/onefetch/main/assets/screenshot-1.png">](https://github.com/o2sh/onefetch) ⭐ 12,051 | 🐛 63 | 🌐 Rust | 📅 2026-09-24\
 ![](https://img.shields.io/github/stars/o2sh/onefetch?style=social)  
 ![](https://img.shields.io/github/last-commit/o2sh/onefetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓ Win ✓</sub>
 
@@ -423,4 +423,4 @@ Submit a PR, linking any related issues
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._

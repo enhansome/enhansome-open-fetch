@@ -114,7 +114,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **KittyKatt/screenFetch** — system\
 `The Bash Screenshot Information Tool`
-[<img style="height:200px;" src="https://raw.githubusercontent.com/joaorobertopb/screenfetch/master/img/screenfetch-wsl.png">](https://github.com/KittyKatt/screenFetch) ⭐ 4,071 | 🐛 163 | 🌐 Shell | 📅 2026-10-09\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/joaorobertopb/screenfetch/master/img/screenfetch-wsl.png">](https://github.com/KittyKatt/screenFetch) ⭐ 4,072 | 🐛 163 | 🌐 Shell | 📅 2026-10-09\
 ![](https://img.shields.io/github/stars/KittyKatt/screenFetch?style=social)  
 ![](https://img.shields.io/github/last-commit/KittyKatt/screenFetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓</sub>
 
@@ -164,7 +164,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **kiedtl/winfetch** — system\
 `🛠 A command-line system information utility written in PowerShell`\
-[<img style="height:250px;" src="https://user-images.githubusercontent.com/46838874/109414247-f75e1600-79d7-11eb-90ea-d28d417b1654.png">](https://github.com/kiedtl/winfetch) ⭐ 1,794 | 🐛 25 | 🌐 PowerShell | 📅 2024-05-09\
+[<img style="height:250px;" src="https://user-images.githubusercontent.com/46838874/109414247-f75e1600-79d7-11eb-90ea-d28d417b1654.png">](https://github.com/kiedtl/winfetch) ⭐ 1,795 | 🐛 25 | 🌐 PowerShell | 📅 2024-05-09\
 ![](https://img.shields.io/github/stars/kiedtl/winfetch?style=social)  
 ![](https://img.shields.io/github/last-commit/kiedtl/winfetch?style=flat-square)\ <sub>Win ✓</sub>
 
@@ -195,7 +195,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **hykilpikonna/hyfetch** — system\
 `🖼️ 🏳️‍⚧️ Neofetch with LGBTQ pride flags!`\
-[<img style="height:250px;" src="https://user-images.githubusercontent.com/22280294/162614541-af2b4660-f1f7-4287-b978-1aa2266ac70f.png">](https://github.com/hykilpikonna/hyfetch) ⭐ 2,123 | 🐛 12 | 🌐 Shell | 📅 2026-10-12\
+[<img style="height:250px;" src="https://user-images.githubusercontent.com/22280294/162614541-af2b4660-f1f7-4287-b978-1aa2266ac70f.png">](https://github.com/hykilpikonna/hyfetch) ⭐ 2,124 | 🐛 12 | 🌐 Shell | 📅 2026-10-12\
 ![](https://img.shields.io/github/stars/hykilpikonna/hyfetch?style=social)  
 ![](https://img.shields.io/github/last-commit/hykilpikonna/hyfetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓ Win ✓</sub>
 
@@ -252,7 +252,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **LinusDierheimer/fastfetch** — system\
 `Like neofetch, but much faster because written in C`\
-[<img style="height:200px;" src="https://raw.githubusercontent.com/LinusDierheimer/fastfetch/master/screenshots/example1.png">](https://github.com/LinusDierheimer/fastfetch) ⭐ 24,995 | 🐛 104 | 🌐 C | 📅 2026-10-13\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/LinusDierheimer/fastfetch/master/screenshots/example1.png">](https://github.com/LinusDierheimer/fastfetch) ⭐ 25,010 | 🐛 103 | 🌐 C | 📅 2026-10-14\
 ![](https://img.shields.io/github/stars/LinusDierheimer/fastfetch?style=social)  
 ![](https://img.shields.io/github/last-commit/LinusDierheimer/fastfetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓</sub>
 
@@ -364,7 +364,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **Macchina-CLI/macchina** — system\
 `A system information frontend, with an (unhealthy) emphasis on performance`\
-[<img style="height:200px;" src="https://raw.githubusercontent.com/Macchina-CLI/macchina/main/assets/preview.png">](https://github.com/Macchina-CLI/macchina) ⭐ 1,982 | 🐛 11 | 🌐 Rust | 📅 2025-03-08\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/Macchina-CLI/macchina/main/assets/preview.png">](https://github.com/Macchina-CLI/macchina) ⭐ 1,980 | 🐛 11 | 🌐 Rust | 📅 2025-03-08\
 ![](https://img.shields.io/github/stars/Macchina-CLI/macchina?style=social)  
 ![](https://img.shields.io/github/last-commit/Macchina-CLI/macchina?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓ Win ✓</sub>
 
@@ -376,7 +376,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **onefetch** — git\
 `Git repository summary in your terminal`\
-[<img style="height:200px;" src="https://raw.githubusercontent.com/o2sh/onefetch/main/assets/screenshot-1.png">](https://github.com/o2sh/onefetch) ⭐ 12,066 | 🐛 62 | 🌐 Rust | 📅 2026-10-13\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/o2sh/onefetch/main/assets/screenshot-1.png">](https://github.com/o2sh/onefetch) ⭐ 12,064 | 🐛 62 | 🌐 Rust | 📅 2026-10-13\
 ![](https://img.shields.io/github/stars/o2sh/onefetch?style=social)  
 ![](https://img.shields.io/github/last-commit/o2sh/onefetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓ Win ✓</sub>
 
@@ -423,4 +423,4 @@ Submit a PR, linking any related issues
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._

@@ -49,7 +49,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **ThatOneCalculator/NerdFetch** — system\
 `A POSIX *nix fetch script using Nerdfonts`\
-[<img style="height:200px;" src="https://blob.jortage.com/blobs/0/a51/0a511e297d66eee92e7cc729e70ca764da6a7bf53aec23d446f1cfbc7da7d9d799bbff5e2de8394f3397d0bee5c058c4c1192c6ae8f45e8ab3f82cd3cd8cb2c2"/>](https://github.com/ThatOneCalculator/NerdFetch) ⭐ 667 | 🐛 1 | 🌐 Shell | 📅 2026-07-16\
+[<img style="height:200px;" src="https://blob.jortage.com/blobs/0/a51/0a511e297d66eee92e7cc729e70ca764da6a7bf53aec23d446f1cfbc7da7d9d799bbff5e2de8394f3397d0bee5c058c4c1192c6ae8f45e8ab3f82cd3cd8cb2c2"/>](https://github.com/ThatOneCalculator/NerdFetch) ⭐ 668 | 🐛 1 | 🌐 Shell | 📅 2026-07-16\
 ![](https://img.shields.io/github/stars/ThatOneCalculator/NerdFetch?style=social)  
 ![](https://img.shields.io/github/last-commit/ThatOneCalculator/NerdFetch?style=flat-square)\ <sub>Linux ✓ Mac ✓</sub>
 
@@ -102,7 +102,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **Mangeshrex/rxfetch** — system\
 `A custom system info fetching tool`\
-[<img style="height:250px;" src="https://raw.githubusercontent.com/Mangeshrex/rxfetch/main/screenshots/ss.png"/>](https://github.com/Mangeshrex/rxfetch) ⭐ 501 | 🐛 3 | 🌐 Shell | 📅 2025-07-25\
+[<img style="height:250px;" src="https://raw.githubusercontent.com/Mangeshrex/rxfetch/main/screenshots/ss.png"/>](https://github.com/Mangeshrex/rxfetch) ⭐ 502 | 🐛 3 | 🌐 Shell | 📅 2025-07-25\
 ![](https://img.shields.io/github/stars/Mangeshrex/rxfetch?style=social)  
 ![](https://img.shields.io/github/last-commit/Mangeshrex/rxfetch?style=flat-square)\ <sub>Linux ✓</sub>
 
@@ -195,7 +195,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **hykilpikonna/hyfetch** — system\
 `🖼️ 🏳️‍⚧️ Neofetch with LGBTQ pride flags!`\
-[<img style="height:250px;" src="https://user-images.githubusercontent.com/22280294/162614541-af2b4660-f1f7-4287-b978-1aa2266ac70f.png">](https://github.com/hykilpikonna/hyfetch) ⭐ 2,154 | 🐛 7 | 🌐 Shell | 📅 2026-11-04\
+[<img style="height:250px;" src="https://user-images.githubusercontent.com/22280294/162614541-af2b4660-f1f7-4287-b978-1aa2266ac70f.png">](https://github.com/hykilpikonna/hyfetch) ⭐ 2,155 | 🐛 8 | 🌐 Shell | 📅 2026-11-04\
 ![](https://img.shields.io/github/stars/hykilpikonna/hyfetch?style=social)  
 ![](https://img.shields.io/github/last-commit/hykilpikonna/hyfetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓ Win ✓</sub>
 
@@ -252,7 +252,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **LinusDierheimer/fastfetch** — system\
 `Like neofetch, but much faster because written in C`\
-[<img style="height:200px;" src="https://raw.githubusercontent.com/LinusDierheimer/fastfetch/master/screenshots/example1.png">](https://github.com/LinusDierheimer/fastfetch) ⭐ 25,320 | 🐛 124 | 🌐 C | 📅 2026-11-09\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/LinusDierheimer/fastfetch/master/screenshots/example1.png">](https://github.com/LinusDierheimer/fastfetch) ⭐ 25,331 | 🐛 122 | 🌐 C | 📅 2026-11-10\
 ![](https://img.shields.io/github/stars/LinusDierheimer/fastfetch?style=social)  
 ![](https://img.shields.io/github/last-commit/LinusDierheimer/fastfetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓</sub>
 
@@ -340,7 +340,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **K4rakara/freshfetch** — system\
 `A fresh take on neofetch`\
-[<img style="height:200px;" src="https://raw.githubusercontent.com/K4rakara/freshfetch/master/readme/config-1.png">](https://github.com/K4rakara/freshfetch) ⭐ 513 | 🐛 19 | 🌐 Rust | 📅 2024-06-05\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/K4rakara/freshfetch/master/readme/config-1.png">](https://github.com/K4rakara/freshfetch) ⭐ 514 | 🐛 19 | 🌐 Rust | 📅 2024-06-05\
 ![](https://img.shields.io/github/stars/K4rakara/freshfetch?style=social)  
 ![](https://img.shields.io/github/last-commit/K4rakara/freshfetch?style=flat-square)\ <sub>Linux ✓</sub>
 
@@ -352,7 +352,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **Gobidev/pfetch-rs** — system\
 `A rewrite of the pfetch system information tool in Rust`
-[<img style="height:200px;" src="https://user-images.githubusercontent.com/50576978/219375863-579c495d-8db8-4aa9-a4a6-348ecb2c849f.png">](https://github.com/Gobidev/pfetch-rs) ⭐ 372 | 🐛 2 | 🌐 Rust | 📅 2026-10-28\
+[<img style="height:200px;" src="https://user-images.githubusercontent.com/50576978/219375863-579c495d-8db8-4aa9-a4a6-348ecb2c849f.png">](https://github.com/Gobidev/pfetch-rs) ⭐ 373 | 🐛 2 | 🌐 Rust | 📅 2026-10-28\
 ![](https://img.shields.io/github/stars/Gobidev/pfetch-rs?style=social)  
 ![](https://img.shields.io/github/last-commit/Gobidev/pfetch-rs?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓</sub>
 
@@ -376,7 +376,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **onefetch** — git\
 `Git repository summary in your terminal`\
-[<img style="height:200px;" src="https://raw.githubusercontent.com/o2sh/onefetch/main/assets/screenshot-1.png">](https://github.com/o2sh/onefetch) ⭐ 12,086 | 🐛 66 | 🌐 Rust | 📅 2026-11-09\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/o2sh/onefetch/main/assets/screenshot-1.png">](https://github.com/o2sh/onefetch) ⭐ 12,087 | 🐛 66 | 🌐 Rust | 📅 2026-11-09\
 ![](https://img.shields.io/github/stars/o2sh/onefetch?style=social)  
 ![](https://img.shields.io/github/last-commit/o2sh/onefetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓ Win ✓</sub>
 
@@ -423,4 +423,4 @@ Submit a PR, linking any related issues
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

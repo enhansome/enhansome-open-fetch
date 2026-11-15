@@ -37,7 +37,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **6gk/fet.sh** — system\
 `🐢 a fetch written in posix shell without any external commands`\
-[<img style="height:250px;" src="https://raw.githubusercontent.com/6gk/fet.sh/master/screenshot.png"/>](https://github.com/6gk/fet.sh) ⭐ 398 | 🐛 1 | 🌐 Shell | 📅 2022-11-26\
+[<img style="height:250px;" src="https://raw.githubusercontent.com/6gk/fet.sh/master/screenshot.png"/>](https://github.com/6gk/fet.sh) ⭐ 399 | 🐛 1 | 🌐 Shell | 📅 2022-11-26\
 ![](https://img.shields.io/github/stars/6gk/fet.sh?style=social)  
 ![](https://img.shields.io/github/last-commit/6gk/fet.sh?style=flat-square)\ <sub>Linux ✓</sub>
 
@@ -102,7 +102,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **Mangeshrex/rxfetch** — system\
 `A custom system info fetching tool`\
-[<img style="height:250px;" src="https://raw.githubusercontent.com/Mangeshrex/rxfetch/main/screenshots/ss.png"/>](https://github.com/Mangeshrex/rxfetch) ⭐ 502 | 🐛 3 | 🌐 Shell | 📅 2025-07-25\
+[<img style="height:250px;" src="https://raw.githubusercontent.com/Mangeshrex/rxfetch/main/screenshots/ss.png"/>](https://github.com/Mangeshrex/rxfetch) ⭐ 503 | 🐛 3 | 🌐 Shell | 📅 2025-07-25\
 ![](https://img.shields.io/github/stars/Mangeshrex/rxfetch?style=social)  
 ![](https://img.shields.io/github/last-commit/Mangeshrex/rxfetch?style=flat-square)\ <sub>Linux ✓</sub>
 
@@ -114,7 +114,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **KittyKatt/screenFetch** — system\
 `The Bash Screenshot Information Tool`
-[<img style="height:200px;" src="https://raw.githubusercontent.com/joaorobertopb/screenfetch/master/img/screenfetch-wsl.png">](https://github.com/KittyKatt/screenFetch) ⭐ 4,076 | 🐛 170 | 🌐 Shell | 📅 2026-10-09\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/joaorobertopb/screenfetch/master/img/screenfetch-wsl.png">](https://github.com/KittyKatt/screenFetch) ⭐ 4,077 | 🐛 170 | 🌐 Shell | 📅 2026-10-09\
 ![](https://img.shields.io/github/stars/KittyKatt/screenFetch?style=social)  
 ![](https://img.shields.io/github/last-commit/KittyKatt/screenFetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓</sub>
 
@@ -126,7 +126,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **wick3dr0se/sysfetch** — system\
 `A super tiny system information fetch script`\
-[<img style="height:250px;" src="https://raw.githubusercontent.com/wick3dr0se/sysfetch/master/screen.png">](https://github.com/wick3dr0se/sysfetch) ⭐ 236 | 🐛 4 | 🌐 Shell | 📅 2026-07-19\
+[<img style="height:250px;" src="https://raw.githubusercontent.com/wick3dr0se/sysfetch/master/screen.png">](https://github.com/wick3dr0se/sysfetch) ⭐ 237 | 🐛 4 | 🌐 Shell | 📅 2026-07-19\
 ![](https://img.shields.io/github/stars/wick3dr0se/sysfetch?style=social)  
 ![](https://img.shields.io/github/last-commit/wick3dr0se/sysfetch?style=flat-square)\ <sub>Linux ✓</sub>
 
@@ -183,7 +183,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **HorlogeSkynet/archey4** — system\
 `💻 Maintained fork of the original Archey (Linux) system tool`\
-[<img style="height:200px;" src="https://camo.githubusercontent.com/2ed9dd62bafd5b58e6e034accd4e764c753324d4d7ccf1e385a2fb1834f76d40/68747470733a2f2f626c6f672e73616d75656c2e646f6d61696e732f696d672f626c6f672f7468652d6172636865792d70726f6a6563742d776861742d692d76652d646563696465642d746f2d646f2e706e673f76342e31342e302e30">](https://github.com/HorlogeSkynet/archey4) ⭐ 344 | 🐛 4 | 🌐 Python | 📅 2026-10-23\
+[<img style="height:200px;" src="https://camo.githubusercontent.com/2ed9dd62bafd5b58e6e034accd4e764c753324d4d7ccf1e385a2fb1834f76d40/68747470733a2f2f626c6f672e73616d75656c2e646f6d61696e732f696d672f626c6f672f7468652d6172636865792d70726f6a6563742d776861742d692d76652d646563696465642d746f2d646f2e706e673f76342e31342e302e30">](https://github.com/HorlogeSkynet/archey4) ⭐ 345 | 🐛 4 | 🌐 Python | 📅 2026-10-23\
 ![](https://img.shields.io/github/stars/HorlogeSkynet/archey4?style=social)  
 ![](https://img.shields.io/github/last-commit/HorlogeSkynet/archey4?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓ WSL ✓</sub>
 
@@ -195,7 +195,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **hykilpikonna/hyfetch** — system\
 `🖼️ 🏳️‍⚧️ Neofetch with LGBTQ pride flags!`\
-[<img style="height:250px;" src="https://user-images.githubusercontent.com/22280294/162614541-af2b4660-f1f7-4287-b978-1aa2266ac70f.png">](https://github.com/hykilpikonna/hyfetch) ⭐ 2,159 | 🐛 8 | 🌐 Shell | 📅 2026-11-04\
+[<img style="height:250px;" src="https://user-images.githubusercontent.com/22280294/162614541-af2b4660-f1f7-4287-b978-1aa2266ac70f.png">](https://github.com/hykilpikonna/hyfetch) ⭐ 2,160 | 🐛 7 | 🌐 Shell | 📅 2026-11-15\
 ![](https://img.shields.io/github/stars/hykilpikonna/hyfetch?style=social)  
 ![](https://img.shields.io/github/last-commit/hykilpikonna/hyfetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓ Win ✓</sub>
 
@@ -216,7 +216,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **13-CF/afetch** — system\
 `Simple system info written in C`
-[<img style="height:250px;" src="https://raw.githubusercontent.com/13-CF/afetch/master/img/logo.png">](https://github.com/13-CF/afetch) ⭐ 243 | 🐛 30 | 🌐 C | 📅 2024-05-02\
+[<img style="height:250px;" src="https://raw.githubusercontent.com/13-CF/afetch/master/img/logo.png">](https://github.com/13-CF/afetch) ⭐ 242 | 🐛 30 | 🌐 C | 📅 2024-05-02\
 ![](https://img.shields.io/github/stars/13-CF/afetch?style=social)  
 ![](https://img.shields.io/github/last-commit/13-CF/afetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓</sub>
 
@@ -228,7 +228,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **alba4k/albafetch** — system\
 `Faster neofetch alternative, written in C`
-[<img style="height:200px;" src="https://raw.githubusercontent.com/alba4k/albafetch/master/images/albafetch_demo.png">](https://github.com/alba4k/albafetch) ⭐ 74 | 🐛 1 | 🌐 C | 📅 2026-11-14\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/alba4k/albafetch/master/images/albafetch_demo.png">](https://github.com/alba4k/albafetch) ⭐ 74 | 🐛 0 | 🌐 C | 📅 2026-11-14\
 ![](https://img.shields.io/github/stars/alba4k/albafetch?style=social)  
 ![](https://img.shields.io/github/last-commit/alba4k/albafetch?style=flat-square)\ <sub>Linux ✓ Mac ✓</sub>
 
@@ -252,7 +252,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **LinusDierheimer/fastfetch** — system\
 `Like neofetch, but much faster because written in C`\
-[<img style="height:200px;" src="https://raw.githubusercontent.com/LinusDierheimer/fastfetch/master/screenshots/example1.png">](https://github.com/LinusDierheimer/fastfetch) ⭐ 25,359 | 🐛 127 | 🌐 C | 📅 2026-11-14\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/LinusDierheimer/fastfetch/master/screenshots/example1.png">](https://github.com/LinusDierheimer/fastfetch) ⭐ 25,370 | 🐛 129 | 🌐 C | 📅 2026-11-15\
 ![](https://img.shields.io/github/stars/LinusDierheimer/fastfetch?style=social)  
 ![](https://img.shields.io/github/last-commit/LinusDierheimer/fastfetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓</sub>
 
@@ -364,7 +364,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **Macchina-CLI/macchina** — system\
 `A system information frontend, with an (unhealthy) emphasis on performance`\
-[<img style="height:200px;" src="https://raw.githubusercontent.com/Macchina-CLI/macchina/main/assets/preview.png">](https://github.com/Macchina-CLI/macchina) ⭐ 1,997 | 🐛 10 | 🌐 Rust | 📅 2025-03-08\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/Macchina-CLI/macchina/main/assets/preview.png">](https://github.com/Macchina-CLI/macchina) ⭐ 1,998 | 🐛 10 | 🌐 Rust | 📅 2025-03-08\
 ![](https://img.shields.io/github/stars/Macchina-CLI/macchina?style=social)  
 ![](https://img.shields.io/github/last-commit/Macchina-CLI/macchina?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓ Win ✓</sub>
 
@@ -376,7 +376,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **onefetch** — git\
 `Git repository summary in your terminal`\
-[<img style="height:200px;" src="https://raw.githubusercontent.com/o2sh/onefetch/main/assets/screenshot-1.png">](https://github.com/o2sh/onefetch) ⭐ 12,088 | 🐛 66 | 🌐 Rust | 📅 2026-11-09\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/o2sh/onefetch/main/assets/screenshot-1.png">](https://github.com/o2sh/onefetch) ⭐ 12,089 | 🐛 66 | 🌐 Rust | 📅 2026-11-09\
 ![](https://img.shields.io/github/stars/o2sh/onefetch?style=social)  
 ![](https://img.shields.io/github/last-commit/o2sh/onefetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓ Win ✓</sub>
 
@@ -423,4 +423,4 @@ Submit a PR, linking any related issues
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._

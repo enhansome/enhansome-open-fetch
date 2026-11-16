@@ -29,7 +29,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **info-mono/diyfetch** — template\
 `🧰📠 The ultimate fetch tool template`\
-[<img style="height:200px;" src="https://user-images.githubusercontent.com/43980777/188278675-7adca8da-83d5-4e9c-b53e-fdb337a9da11.png#gh-dark-mode-only"/>](https://github.com/info-mono/diyfetch) ⭐ 255 | 🐛 0 | 🌐 Shell | 📅 2023-08-07\
+[<img style="height:200px;" src="https://user-images.githubusercontent.com/43980777/188278675-7adca8da-83d5-4e9c-b53e-fdb337a9da11.png#gh-dark-mode-only"/>](https://github.com/info-mono/diyfetch) ⭐ 254 | 🐛 0 | 🌐 Shell | 📅 2023-08-07\
 ![](https://img.shields.io/github/stars/info-mono/diyfetch?style=social)  
 ![](https://img.shields.io/github/last-commit/info-mono/diyfetch?style=flat-square)\ <sub>Linux ✓</sub>
 
@@ -49,7 +49,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **ThatOneCalculator/NerdFetch** — system\
 `A POSIX *nix fetch script using Nerdfonts`\
-[<img style="height:200px;" src="https://blob.jortage.com/blobs/0/a51/0a511e297d66eee92e7cc729e70ca764da6a7bf53aec23d446f1cfbc7da7d9d799bbff5e2de8394f3397d0bee5c058c4c1192c6ae8f45e8ab3f82cd3cd8cb2c2"/>](https://github.com/ThatOneCalculator/NerdFetch) ⭐ 668 | 🐛 1 | 🌐 Shell | 📅 2026-07-16\
+[<img style="height:200px;" src="https://blob.jortage.com/blobs/0/a51/0a511e297d66eee92e7cc729e70ca764da6a7bf53aec23d446f1cfbc7da7d9d799bbff5e2de8394f3397d0bee5c058c4c1192c6ae8f45e8ab3f82cd3cd8cb2c2"/>](https://github.com/ThatOneCalculator/NerdFetch) ⭐ 669 | 🐛 1 | 🌐 Shell | 📅 2026-07-16\
 ![](https://img.shields.io/github/stars/ThatOneCalculator/NerdFetch?style=social)  
 ![](https://img.shields.io/github/last-commit/ThatOneCalculator/NerdFetch?style=flat-square)\ <sub>Linux ✓ Mac ✓</sub>
 
@@ -195,7 +195,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **hykilpikonna/hyfetch** — system\
 `🖼️ 🏳️‍⚧️ Neofetch with LGBTQ pride flags!`\
-[<img style="height:250px;" src="https://user-images.githubusercontent.com/22280294/162614541-af2b4660-f1f7-4287-b978-1aa2266ac70f.png">](https://github.com/hykilpikonna/hyfetch) ⭐ 2,160 | 🐛 7 | 🌐 Shell | 📅 2026-11-15\
+[<img style="height:250px;" src="https://user-images.githubusercontent.com/22280294/162614541-af2b4660-f1f7-4287-b978-1aa2266ac70f.png">](https://github.com/hykilpikonna/hyfetch) ⭐ 2,161 | 🐛 8 | 🌐 Shell | 📅 2026-11-15\
 ![](https://img.shields.io/github/stars/hykilpikonna/hyfetch?style=social)  
 ![](https://img.shields.io/github/last-commit/hykilpikonna/hyfetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓ Win ✓</sub>
 
@@ -252,7 +252,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **LinusDierheimer/fastfetch** — system\
 `Like neofetch, but much faster because written in C`\
-[<img style="height:200px;" src="https://raw.githubusercontent.com/LinusDierheimer/fastfetch/master/screenshots/example1.png">](https://github.com/LinusDierheimer/fastfetch) ⭐ 25,370 | 🐛 129 | 🌐 C | 📅 2026-11-15\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/LinusDierheimer/fastfetch/master/screenshots/example1.png">](https://github.com/LinusDierheimer/fastfetch) ⭐ 25,379 | 🐛 127 | 🌐 C | 📅 2026-11-16\
 ![](https://img.shields.io/github/stars/LinusDierheimer/fastfetch?style=social)  
 ![](https://img.shields.io/github/last-commit/LinusDierheimer/fastfetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓</sub>
 
@@ -423,4 +423,4 @@ Submit a PR, linking any related issues
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._

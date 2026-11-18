@@ -114,7 +114,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **KittyKatt/screenFetch** — system\
 `The Bash Screenshot Information Tool`
-[<img style="height:200px;" src="https://raw.githubusercontent.com/joaorobertopb/screenfetch/master/img/screenfetch-wsl.png">](https://github.com/KittyKatt/screenFetch) ⭐ 4,077 | 🐛 171 | 🌐 Shell | 📅 2026-10-09\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/joaorobertopb/screenfetch/master/img/screenfetch-wsl.png">](https://github.com/KittyKatt/screenFetch) ⭐ 4,078 | 🐛 171 | 🌐 Shell | 📅 2026-10-09\
 ![](https://img.shields.io/github/stars/KittyKatt/screenFetch?style=social)  
 ![](https://img.shields.io/github/last-commit/KittyKatt/screenFetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓</sub>
 
@@ -183,7 +183,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **HorlogeSkynet/archey4** — system\
 `💻 Maintained fork of the original Archey (Linux) system tool`\
-[<img style="height:200px;" src="https://camo.githubusercontent.com/2ed9dd62bafd5b58e6e034accd4e764c753324d4d7ccf1e385a2fb1834f76d40/68747470733a2f2f626c6f672e73616d75656c2e646f6d61696e732f696d672f626c6f672f7468652d6172636865792d70726f6a6563742d776861742d692d76652d646563696465642d746f2d646f2e706e673f76342e31342e302e30">](https://github.com/HorlogeSkynet/archey4) ⭐ 345 | 🐛 4 | 🌐 Python | 📅 2026-10-23\
+[<img style="height:200px;" src="https://camo.githubusercontent.com/2ed9dd62bafd5b58e6e034accd4e764c753324d4d7ccf1e385a2fb1834f76d40/68747470733a2f2f626c6f672e73616d75656c2e646f6d61696e732f696d672f626c6f672f7468652d6172636865792d70726f6a6563742d776861742d692d76652d646563696465642d746f2d646f2e706e673f76342e31342e302e30">](https://github.com/HorlogeSkynet/archey4) ⭐ 347 | 🐛 4 | 🌐 Python | 📅 2026-10-23\
 ![](https://img.shields.io/github/stars/HorlogeSkynet/archey4?style=social)  
 ![](https://img.shields.io/github/last-commit/HorlogeSkynet/archey4?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓ WSL ✓</sub>
 
@@ -195,7 +195,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **hykilpikonna/hyfetch** — system\
 `🖼️ 🏳️‍⚧️ Neofetch with LGBTQ pride flags!`\
-[<img style="height:250px;" src="https://user-images.githubusercontent.com/22280294/162614541-af2b4660-f1f7-4287-b978-1aa2266ac70f.png">](https://github.com/hykilpikonna/hyfetch) ⭐ 2,162 | 🐛 9 | 🌐 Shell | 📅 2026-11-15\
+[<img style="height:250px;" src="https://user-images.githubusercontent.com/22280294/162614541-af2b4660-f1f7-4287-b978-1aa2266ac70f.png">](https://github.com/hykilpikonna/hyfetch) ⭐ 2,157 | 🐛 8 | 🌐 Shell | 📅 2026-11-18\
 ![](https://img.shields.io/github/stars/hykilpikonna/hyfetch?style=social)  
 ![](https://img.shields.io/github/last-commit/hykilpikonna/hyfetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓ Win ✓</sub>
 
@@ -240,7 +240,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **Dr-Noob/cpufetch** — cpu\
 `Simple yet fancy CPU architecture fetching tool`\
-[<img style="height:200px;" src="https://raw.githubusercontent.com/Dr-Noob/cpufetch/master/pictures/epyc.png">](https://github.com/Dr-Noob/cpufetch) ⭐ 2,167 | 🐛 139 | 🌐 C | 📅 2025-11-01\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/Dr-Noob/cpufetch/master/pictures/epyc.png">](https://github.com/Dr-Noob/cpufetch) ⭐ 2,168 | 🐛 139 | 🌐 C | 📅 2025-11-01\
 ![](https://img.shields.io/github/stars/Dr-Noob/cpufetch?style=social)  
 ![](https://img.shields.io/github/last-commit/Dr-Noob/cpufetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓ Win ✓</sub>
 
@@ -252,7 +252,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **LinusDierheimer/fastfetch** — system\
 `Like neofetch, but much faster because written in C`\
-[<img style="height:200px;" src="https://raw.githubusercontent.com/LinusDierheimer/fastfetch/master/screenshots/example1.png">](https://github.com/LinusDierheimer/fastfetch) ⭐ 25,388 | 🐛 128 | 🌐 C | 📅 2026-11-17\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/LinusDierheimer/fastfetch/master/screenshots/example1.png">](https://github.com/LinusDierheimer/fastfetch) ⭐ 25,399 | 🐛 128 | 🌐 C | 📅 2026-11-17\
 ![](https://img.shields.io/github/stars/LinusDierheimer/fastfetch?style=social)  
 ![](https://img.shields.io/github/last-commit/LinusDierheimer/fastfetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓</sub>
 
@@ -352,7 +352,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **Gobidev/pfetch-rs** — system\
 `A rewrite of the pfetch system information tool in Rust`
-[<img style="height:200px;" src="https://user-images.githubusercontent.com/50576978/219375863-579c495d-8db8-4aa9-a4a6-348ecb2c849f.png">](https://github.com/Gobidev/pfetch-rs) ⭐ 375 | 🐛 2 | 🌐 Rust | 📅 2026-10-28\
+[<img style="height:200px;" src="https://user-images.githubusercontent.com/50576978/219375863-579c495d-8db8-4aa9-a4a6-348ecb2c849f.png">](https://github.com/Gobidev/pfetch-rs) ⭐ 375 | 🐛 3 | 🌐 Rust | 📅 2026-10-28\
 ![](https://img.shields.io/github/stars/Gobidev/pfetch-rs?style=social)  
 ![](https://img.shields.io/github/last-commit/Gobidev/pfetch-rs?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓</sub>
 
@@ -376,7 +376,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **onefetch** — git\
 `Git repository summary in your terminal`\
-[<img style="height:200px;" src="https://raw.githubusercontent.com/o2sh/onefetch/main/assets/screenshot-1.png">](https://github.com/o2sh/onefetch) ⭐ 12,086 | 🐛 66 | 🌐 Rust | 📅 2026-11-09\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/o2sh/onefetch/main/assets/screenshot-1.png">](https://github.com/o2sh/onefetch) ⭐ 12,085 | 🐛 65 | 🌐 Rust | 📅 2026-11-17\
 ![](https://img.shields.io/github/stars/o2sh/onefetch?style=social)  
 ![](https://img.shields.io/github/last-commit/o2sh/onefetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓ Win ✓</sub>
 
@@ -423,4 +423,4 @@ Submit a PR, linking any related issues
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._

@@ -29,7 +29,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **info-mono/diyfetch** — template\
 `🧰📠 The ultimate fetch tool template`\
-[<img style="height:200px;" src="https://user-images.githubusercontent.com/43980777/188278675-7adca8da-83d5-4e9c-b53e-fdb337a9da11.png#gh-dark-mode-only"/>](https://github.com/info-mono/diyfetch) ⭐ 254 | 🐛 0 | 🌐 Shell | 📅 2023-08-07\
+[<img style="height:200px;" src="https://user-images.githubusercontent.com/43980777/188278675-7adca8da-83d5-4e9c-b53e-fdb337a9da11.png#gh-dark-mode-only"/>](https://github.com/info-mono/diyfetch) ⭐ 255 | 🐛 0 | 🌐 Shell | 📅 2023-08-07\
 ![](https://img.shields.io/github/stars/info-mono/diyfetch?style=social)  
 ![](https://img.shields.io/github/last-commit/info-mono/diyfetch?style=flat-square)\ <sub>Linux ✓</sub>
 
@@ -195,7 +195,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **hykilpikonna/hyfetch** — system\
 `🖼️ 🏳️‍⚧️ Neofetch with LGBTQ pride flags!`\
-[<img style="height:250px;" src="https://user-images.githubusercontent.com/22280294/162614541-af2b4660-f1f7-4287-b978-1aa2266ac70f.png">](https://github.com/hykilpikonna/hyfetch) ⭐ 2,162 | 🐛 8 | 🌐 Shell | 📅 2026-11-18\
+[<img style="height:250px;" src="https://user-images.githubusercontent.com/22280294/162614541-af2b4660-f1f7-4287-b978-1aa2266ac70f.png">](https://github.com/hykilpikonna/hyfetch) ⭐ 2,161 | 🐛 8 | 🌐 Shell | 📅 2026-11-18\
 ![](https://img.shields.io/github/stars/hykilpikonna/hyfetch?style=social)  
 ![](https://img.shields.io/github/last-commit/hykilpikonna/hyfetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓ Win ✓</sub>
 
@@ -252,7 +252,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **LinusDierheimer/fastfetch** — system\
 `Like neofetch, but much faster because written in C`\
-[<img style="height:200px;" src="https://raw.githubusercontent.com/LinusDierheimer/fastfetch/master/screenshots/example1.png">](https://github.com/LinusDierheimer/fastfetch) ⭐ 25,423 | 🐛 130 | 🌐 C | 📅 2026-11-21\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/LinusDierheimer/fastfetch/master/screenshots/example1.png">](https://github.com/LinusDierheimer/fastfetch) ⭐ 25,430 | 🐛 130 | 🌐 C | 📅 2026-11-21\
 ![](https://img.shields.io/github/stars/LinusDierheimer/fastfetch?style=social)  
 ![](https://img.shields.io/github/last-commit/LinusDierheimer/fastfetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓</sub>
 
@@ -321,7 +321,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **unxsh/nitch** — system\
 `nitch - incredibly fast system fetch written in nim`\
-[<img style="height:250px;" src="https://camo.githubusercontent.com/5ed1daff8db121a3532f17e58f61f6e3aae2a194557778bfd42afaa7186ba218/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3935353336323437373133373336323935342f3939373833393030353436303732353834312f323032322d30372d31365f31352d31355f312e706e67">](https://github.com/unxsh/nitch) ⭐ 650 | 🐛 31 | 🌐 Nim | 📅 2024-06-22\
+[<img style="height:250px;" src="https://camo.githubusercontent.com/5ed1daff8db121a3532f17e58f61f6e3aae2a194557778bfd42afaa7186ba218/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3935353336323437373133373336323935342f3939373833393030353436303732353834312f323032322d30372d31365f31352d31355f312e706e67">](https://github.com/unxsh/nitch) ⭐ 648 | 🐛 31 | 🌐 Nim | 📅 2024-06-22\
 ![](https://img.shields.io/github/stars/unxsh/nitch?style=social)  
 ![](https://img.shields.io/github/last-commit/unxsh/nitch?style=flat-square)\ <sub>Linux ✓</sub>
 
@@ -364,7 +364,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **Macchina-CLI/macchina** — system\
 `A system information frontend, with an (unhealthy) emphasis on performance`\
-[<img style="height:200px;" src="https://raw.githubusercontent.com/Macchina-CLI/macchina/main/assets/preview.png">](https://github.com/Macchina-CLI/macchina) ⭐ 1,996 | 🐛 12 | 🌐 Rust | 📅 2025-03-08\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/Macchina-CLI/macchina/main/assets/preview.png">](https://github.com/Macchina-CLI/macchina) ⭐ 1,997 | 🐛 12 | 🌐 Rust | 📅 2025-03-08\
 ![](https://img.shields.io/github/stars/Macchina-CLI/macchina?style=social)  
 ![](https://img.shields.io/github/last-commit/Macchina-CLI/macchina?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓ Win ✓</sub>
 
@@ -376,7 +376,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 **onefetch** — git\
 `Git repository summary in your terminal`\
-[<img style="height:200px;" src="https://raw.githubusercontent.com/o2sh/onefetch/main/assets/screenshot-1.png">](https://github.com/o2sh/onefetch) ⭐ 12,086 | 🐛 61 | 🌐 Rust | 📅 2026-11-20\
+[<img style="height:200px;" src="https://raw.githubusercontent.com/o2sh/onefetch/main/assets/screenshot-1.png">](https://github.com/o2sh/onefetch) ⭐ 12,087 | 🐛 61 | 🌐 Rust | 📅 2026-11-21\
 ![](https://img.shields.io/github/stars/o2sh/onefetch?style=social)  
 ![](https://img.shields.io/github/last-commit/o2sh/onefetch?style=flat-square)\ <sub>Linux ✓ BSD ✓ Mac ✓ Win ✓</sub>
 
@@ -423,4 +423,4 @@ Submit a PR, linking any related issues
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
